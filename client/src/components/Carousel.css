@@ -1,0 +1,17 @@
+.overall-container {
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+
+.carousel-button  {
+    text-align: center;
+    margin: auto;
+    display: flex;
+    width: 150px;
+    height: 45px;
+    
+  
+    
+}
